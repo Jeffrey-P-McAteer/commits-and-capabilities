@@ -1,0 +1,11 @@
+*site-packages
+*site-packages/*
+out
+data
+build
+out/*
+data/*
+build/*
+__pycache__
+__pycache__/*
+
